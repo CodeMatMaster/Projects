@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry combineaccessrules="false" kind="src" path="/BankATM"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Clock"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CoinToss"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DiceRoll"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Fibonacci"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GradeAverage"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GrossPay"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HelloWorld"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Lab8Array"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Parallel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RandomNum205"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RateOfPay"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Vinyls"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Word"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,31 @@
+a.) What exactly is the difference between the size of an Arraylist and the capacity of the
+Arraylist?
+
+The size of an array list refers to the number of elements currently stored in the list, while the
+capacity refers to the total number of elements an ArrayList can hold without resizing its total array.
+
+
+
+b.) How many elements can an Arraylist store?
+
+After reading different sources, it appears that elements of an ArrayList vary and depends on different
+factors such as the available memory on a computer or Virtual Machine. Which in theory, the number of
+elements that can be stored is unlimited.
+
+
+c.) Name two advantages of Arraylists over arrays.
+
+
+1.) ArrayList is dynamic in size (meaning it can change it's size automatically when you add or remove elements). Hence, there is not a fixed size.
+
+2.) You don't have to manually shift all elements down in the ArrayList when you add in between elements.
+
+
+
+d) Name two advantages of arrays over Arraylists.
+
+
+1.) It is just slightly faster to get an get and set elements. Hence, if you know the number of elements you are working with, arrays can be faster.
+
+2.) A multidimensional structure is only available through arrays as Arraylists are only one dimensional.
+
