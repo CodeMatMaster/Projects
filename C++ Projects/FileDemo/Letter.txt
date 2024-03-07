@@ -1,0 +1,14 @@
+James Smith
+123 ABC Street
+.... more address lines would go here....
+
+Dear James Smith,
+We would like to invite you to our Techy Talk at Ten this Friday. 
+Since this is Cybersecurity Awareness Month, all of our TTT's are 
+related to ways to help keep you safe online.  This weeks's talk 
+is titled 'Social Engeineering Attacks: Phishing.' Phishing attacks 
+account for more than 80 percent of reported security incidents. 
+Learn how to handle attacks from bad actors this Friday, at 10:10 
+in Lab 243.
+
+Stay Safe!!!
